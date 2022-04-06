@@ -1,4 +1,4 @@
----
+Jerome's family dashboard ---
 title: Checking for existing SSH keys
 intro: 'Before you generate an SSH key, you can check to see if you have any existing SSH keys.'
 redirect_from:
